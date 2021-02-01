@@ -1,0 +1,49 @@
+[
+  {
+    "title": "BÌA SÁCH",
+    "path": "cover"
+  },
+  {
+    "title": "LỜI GIỚI THIỆU",
+    "path": "loi-gioi-thieu"
+  },
+  {
+    "title": "PHẦN I",
+    "subchapters": [
+      {
+        "title": "BÀN CỜ, QUÂN CỜ",
+        "path": "ban-co-quan-co"
+      }
+    ]
+  },
+  {
+    "title": "PHẦN II",
+    "subchapters": [
+      {
+        "title": "NHỮNG ĐIỀU LUẬT CƠ BẢN",
+        "path": "nhung-dieu-luat-co-ban"
+      },
+      {
+        "title": "NHỮNG ĐỊNH NGHĨA CHÍNH",
+        "path": "nhung-dinh-nghia-chinh"
+      },
+      {
+        "title": "TÌNH HUỐNG \"KO\" VÀ LUẬT TRANH CHẤP",
+        "path": "tinh-huong-ko"
+      },
+      {
+        "title": "CÁCH TÍNH THẮNG THUA MỘT VÁN CỜ",
+        "path": "cach-tinh-thang-thua-mot-van-co"
+      }
+    ]
+  },
+  {
+    "title": "PHẦN II",
+    "subchapters": [
+      {
+        "title": "CHƠI CÓ CHẤP",
+        "path": "choi-co-chap"
+      }
+    ]
+  }
+]
