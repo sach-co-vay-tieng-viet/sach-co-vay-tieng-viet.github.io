@@ -9,6 +9,8 @@ const PageContent: FunctionComponent = () => {
   const { bookInfo, chapterInfo, next, prev } = React.useContext(AppContext);
   const { data } = useSWR<string>(`/books/${bookInfo?.path}/${chapterInfo?.path}.md`);
 
+  React.useEffect(() => window.scrollTo(0, 0), [chapterInfo]);
+
   return (
     <div className="content">
       {data ? (

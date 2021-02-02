@@ -28,6 +28,10 @@
         "path": "nhung-dinh-nghia-chinh"
       },
       {
+        "title": "NHỮNG ĐỊNH NGHĨA CHÍNH (2)",
+        "path": "nhung-dinh-nghia-chinh-2"
+      },
+      {
         "title": "TÌNH HUỐNG \"KO\" VÀ LUẬT TRANH CHẤP",
         "path": "tinh-huong-ko"
       },
@@ -38,12 +42,28 @@
     ]
   },
   {
-    "title": "PHẦN II",
+    "title": "PHẦN III",
     "subchapters": [
       {
         "title": "CHƠI CÓ CHẤP",
         "path": "choi-co-chap"
+      },
+      {
+        "title": "THUẬT NGỮ DÀNH CHO THI ĐẤU",
+        "path": "thuat-ngu-thi-dau"
+      },
+      {
+        "title": "MỘT VÀI KỸ THUẬT CHƠI CHO NGƯỜI MỚI HỌC",
+        "path": "ky-thuat-choi"
+      },
+      {
+        "title": "DIỄN BIẾN MỘT VÁN CỜ MẪU",
+        "path": "van-co-mau"
       }
     ]
+  },
+  {
+    "title": "LỜI KẾT",
+    "path": "loi-ket"
   }
 ]
