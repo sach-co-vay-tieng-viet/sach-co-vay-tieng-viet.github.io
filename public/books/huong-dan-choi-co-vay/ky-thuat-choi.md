@@ -2,7 +2,7 @@
 
 ## 1 - BẮT ĐÔI
 
-Là một nước làm cho hai đám quân đối phương mỗi đÁm chỉ còn một khí (xem hình vẽ).
+Là một nước làm cho hai đám quân đối phương mỗi đám chỉ còn một khí (xem hình vẽ).
 
 ![Hình: Bắt đôi](/books/huong-dan-choi-co-vay/assets/ky-thuat-choi-1.png)
 

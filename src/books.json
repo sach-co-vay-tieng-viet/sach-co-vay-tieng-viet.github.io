@@ -3,5 +3,10 @@
     "title": "Hướng dẫn chơi cờ Vây",
     "path": "huong-dan-choi-co-vay",
     "cover": "/books/huong-dan-choi-co-vay/assets/cover-front.jpg"
+  },
+  {
+    "title": "Hình Đẹp (Shape Up!)",
+    "path": "shape-up",
+    "cover": "/books/shape-up/assets/cover.jpg"
   }
 ]

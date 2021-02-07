@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Bìa Sách & Bản Quyền",
+    "path": "cover-and-license"
+  },
+  {
+    "title": "Lời Giới Thiệu",
+    "subchapters": [
+      {
+        "title": "Giới Thiệu: Khái Niệm Hình Cờ",
+        "path": "the-scope-of-shape"
+      }
+    ]
+  },
+  {
+    "title": "Phần Một: Nguyên Tắc Phát Triển",
+    "subchapters": [
+      {
+        "title": "Chương 1: Hình Cái Bàn",
+        "path": "table-shape"
+      },
+      {
+        "title": "Chương 2: Cơ Sở Hình Cờ",
+        "path": "shape-basics"
+      },
+      {
+        "title": "Chương 3: Cự Ly Gần 1",
+        "path": "close-range-play-1"
+      }
+    ]
+  },
+  {
+    "title": "Phần Hai: Nguyên Tắc Mở Giao Tranh",
+    "subchapters": [
+      {
+        "title": "Chương 4: Bắt Đâu Từ Nước Bẻ",
+        "path": "starting-from-hane"
+      }
+    ]
+  }
+]

@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useHistory, useParams } from 'react-router-dom';
 import { BookInfo } from './model/BookInfo';
 import { ChapterInfo } from './model/ChapterInfo';
 import PageContent from './PageContent';
@@ -24,13 +24,14 @@ export const AppContext = React.createContext<AppContextInterface>({
 const App: FC = () => {
   const { bookPath, chapterPath } = useParams<{ bookPath?: string; chapterPath?: string }>();
 
+  const history = useHistory();
+
   const bookInfo = React.useMemo(() => books.find((b) => b.path === bookPath), [bookPath]);
 
   const { data: chapterInfos = [] } = useSWR<ChapterInfo[]>(bookPath ? `/books/${bookPath}/chapters.json` : null, {
     fetcher: (url) => fetch(url).then((r) => r.json()),
   });
-  // eslint-disable-next-line no-console
-  console.log(chapterInfos);
+
   const findChapterInfo = React.useCallback((path: string, chapters: ChapterInfo[]): ChapterInfo | undefined => {
     if (path === '') return undefined;
 
@@ -57,10 +58,23 @@ const App: FC = () => {
     return undefined;
   }, []);
 
-  const chapterInfo = React.useMemo(
-    () => findChapterInfo(chapterPath || '', chapterInfos) || findFirstChapter(chapterInfos),
-    [chapterPath, chapterInfos, findChapterInfo, findFirstChapter]
-  );
+  const rawChapterInfo = React.useMemo(() => findChapterInfo(chapterPath || '', chapterInfos), [
+    findChapterInfo,
+    chapterPath,
+    chapterInfos,
+  ]);
+
+  const chapterInfo = React.useMemo(() => rawChapterInfo || findFirstChapter(chapterInfos), [
+    rawChapterInfo,
+    findFirstChapter,
+    chapterInfos,
+  ]);
+
+  React.useEffect(() => {
+    if (chapterInfos && chapterInfos.length > 0 && !rawChapterInfo) {
+      history.push(`/${bookInfo?.path}/${findFirstChapter(chapterInfos)?.path}`);
+    }
+  }, [bookInfo, chapterInfos, findFirstChapter, history, rawChapterInfo]);
 
   const flatenChapters = React.useCallback((chapters: ChapterInfo[]): ChapterInfo[] => {
     return chapters.reduce((r, chapter) => {
@@ -96,7 +110,7 @@ const App: FC = () => {
             {books.map((book) => (
               <div key={book.path} className="book-cover">
                 <Link to={`/${book.path}`} key={book.path}>
-                  <img src={book.cover} alt={book.title} width="200px" />
+                  <img src={book.cover} alt={book.title} />
                   {book.title}
                 </Link>
               </div>
