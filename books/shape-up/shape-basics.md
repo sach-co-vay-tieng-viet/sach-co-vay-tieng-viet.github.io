@@ -211,7 +211,7 @@ Sau khi Trắng vồ tại 6 ta thấy rõ ràng Đen vẫn kém khí (9 nối t
   <ul>
     <li>thêm một quân vào một đám thường sẽ tăng cho ta một hoặc hai khí, trong đó một khí sẽ bị địch siết mất trong lượt tới của họ;</li>
     <li>thường thì lỗ mất một khí rồi là sẽ rất khó gỡ, vậy nên hạn chế chà mặt vào quân địch mà không có lý do;</li>
-    <li>mắt giả và nhưng liên kết gián tiếp như nối đôi có thể sẽ không giúp tăng thêm khí như ta nghĩ, như đã ví dụ ở trên.</li>
+    <li>mắt giả và những liên kết gián tiếp như nối đôi có thể sẽ không giúp tăng thêm khí như ta nghĩ, như đã ví dụ ở trên.</li>
   </ul>
   <p>
     Trong quá trình chơi thỉnh thoảng bạn sẽ cần phải kiểm tra lại:
