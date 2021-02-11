@@ -1,4 +1,4 @@
-# Chương Một: Hình Cái Bàn
+# Chương Một <br>Hình Cái Bàn
 
 ND: Table Shape (hình cái bàn) là thuật ngữ riêng của cờ Vây phương Tây, được phổ cập bởi chính quyển sách bạn đang đọc. Thuật ngữ này không có từ tương ứng trong tài liệu Nhật, Trung, và vì vậy trong bản dịch này ta cũng chỉ tạm gọi với nghĩa đen là hình cái bàn.
 
@@ -12,7 +12,7 @@ Chương này giới thiệu một số hình mạnh. Hình mạnh không phải
   <img alt="Hình 22" src="/books/shape-up/assets/the-scope-of-shape-22.png" />
 </div>
 
-(**Trái**) Hình cái bàn cơ bản. (Giữa) Hình bàn kép, hình mắt hoàn chỉnh, được tạo bởi hai hình bàn chồng lên nhau, cái bàn thứ hai được đánh dấu. (**Phải**) Nối đôi, chỉ khác hình cái bàn ở quân đánh dấu.
+(**Trái**) Hình cái bàn cơ bản. (**Giữa**) Hình bàn kép, hình mắt hoàn chỉnh, được tạo bởi hai hình bàn chồng lên nhau, cái bàn thứ hai được đánh dấu. (**Phải**) Nối đôi, chỉ khác hình cái bàn ở quân đánh dấu.
 
 <div class="paragraph columns">
   <img alt="Hình 23" src="/books/shape-up/assets/the-scope-of-shape-23.png" />
@@ -30,7 +30,7 @@ Chương này giới thiệu một số hình mạnh. Hình mạnh không phải
   <img alt="Hình 26" src="/books/shape-up/assets/the-scope-of-shape-26.png" />
 </div>
 
-Đen tạo hình bàn. (**Trái**) Đen đè cách một rồi đứng lên củng cố. (**Phải**) Giờ Trắng chắc sẽ chiếm vị trí tạo hình mắt then chốt.
+Đen tạo hình bàn. (**Trái**) Đen chạm cách một rồi đứng lên củng cố. (**Phải**) Giờ Trắng chắc sẽ chiếm vị trí tạo hình mắt then chốt.
 
 <div class="paragraph columns">
   <img alt="Hình 27" src="/books/shape-up/assets/the-scope-of-shape-27.png" />
@@ -60,12 +60,12 @@ Tương phản với trên chúng ta xem xem điều gì sẽ xảy ra khi Đen 
 
 Tình huống đã thay đổi và Đen có thể chọn một kế sách khác (**trái**). Ý tưởng ở đây là thí một quân lẻ (**phải**). Nước Trắng 8 lấp _ko_. Sau Đen 9 đám quân Đen đã tạo được hình đẹp ở trung tâm; và 2 nước trao đổi đánh dấu rõ ràng có lợi cho đen. Hình ăn một quân lẻ của nước 4 và 6 là một hình cờ nổi tiếng (xem khung dưới).
 
-<div style="border: 1px solid #111; padding: 0 1rem;">
-  <h3>Hình ponnuki</h3>
+<div class="paragraph" style="border: 1px solid #111; padding: 0 1rem;">
+  <h3>Hình cờ ponnuki</h3>
   <div class="paragraph columns">
     <img alt="Hình 35" src="/books/shape-up/assets/the-scope-of-shape-35.png" />
     <div>
-      Đây là một hình mạnh, hình thành khi ta ăn một quân lẻ của địch, thường được gọi là ponnuki (ND: tiếng Việt gọi là hình hoa). Có một câu cách ngôn là <em><strong>Hoa trên không giá trị ba mươi mục</strong></em>.
+      Đây là một hình cờ mạnh thành hình khi ta ăn một quân lẻ của địch, thường được gọi là ponnuki (ND: tiếng Việt gọi là hình hoa). Có một câu cách ngôn là <em><strong>Hoa trên không giá trị ba mươi mục</strong></em>.
     </div>
   </div>
   <p>
@@ -74,7 +74,7 @@ Tình huống đã thay đổi và Đen có thể chọn một kế sách khác 
   <p>
     Nếu thành hình ở trung tâm bàn cờ, hình ponnuki sẽ có tầm ảnh hưởng đáng kể.
   </p>
-  <img alt="Hình 36" src="/books/shape-up/assets/the-scope-of-shape-36.png" />
+  <p><img alt="Hình 36" src="/books/shape-up/assets/the-scope-of-shape-36.png" /></p>
   <p>
     Đây là một tình huống thường gặp, trong đó có lẽ Trắng được lợi nhiều hơn sau khi trao đổi khá nhiều đất trong góc để lấy 'hoa trên không'. Giá trị chân chính của Trắng 2 và 4 sẽ được hiển lộ trong các cuộc chiến ở trung cuộc.
   </p>
@@ -159,7 +159,7 @@ Hình bàn cao có lúc cần sửa một chút, để cải thiện sức mạn
 
 <div class="paragraph columns">
   <img alt="Hình 54" src="/books/shape-up/assets/the-scope-of-shape-54.png" />
-  <img alt="Hình 55" src="/books/shape-up/assets/the-scope-of-shape-5.png" />
+  <img alt="Hình 55" src="/books/shape-up/assets/the-scope-of-shape-55.png" />
 </div>
 
 (**Trái**) Trắng 1 dẫn tới Đen 2, sau đó chọn đi 3 thay vì đi tại A, Trắng tạo hình nhẹ. (**Phải**) Đen tiếp tục tấn công tại yếu điểm, nhưng Trắng đã lên sẵn kế hoạch thí toàn bộ các quân đánh dấu, để đổi lấy ngoại thế.

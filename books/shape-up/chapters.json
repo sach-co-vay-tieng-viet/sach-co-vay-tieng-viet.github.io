@@ -18,6 +18,10 @@
       {
         "title": "Chương Một: Hình Cái Bàn",
         "path": "table-shape"
+      },
+      {
+        "title": "Chương Hai: Hình Cờ Cơ Sở",
+        "path": "shape-basics"
       }
     ]
   }

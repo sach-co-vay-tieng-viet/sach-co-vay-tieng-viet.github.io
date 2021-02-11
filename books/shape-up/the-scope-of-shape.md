@@ -2,7 +2,7 @@
 
 ### Hình cờ là gì?
 
-Các kỳ thủ mạnh được trang bị rất nhiều hình dạng cờ khác nhau. Mặc dù từ "Hình cờ" (katachi trong tiếng Nhật) có thể là bất cứ cách sắp xếp quân cờ nào thường thấy trên bàn cờ, chúng ta nên giới hạn khái niệm này lại một chút cho hữu dụng hơn. Những ý tưởng về "Hình cờ" có giá trị ngay lập tức cho chúng ta là những ý tưởng tiết lộ vị trí của _yếu điểm_. Yếu điểm là một vị trí then chốt. Nếu bạn chiếm được vị trí đó, bản thân nó sẽ đem tới kết quả tốt cho bạn, không phải nhờ vào một phép màu nào đó, mà vì bản chất tự nhiên của thế cờ đó là như vậy.
+Các kỳ thủ mạnh được trang bị rất nhiều hình dạng cờ khác nhau. Mặc dù từ "Hình cờ" (katachi trong tiếng Nhật) có thể là bất cứ cách sắp xếp quân cờ nào thường thấy trên bàn cờ, ta nên giới hạn khái niệm này lại một chút cho hữu dụng hơn. Những ý tưởng về "Hình cờ" có giá trị ngay lập tức cho chúng ta là những ý tưởng tiết lộ vị trí của _yếu điểm_. Yếu điểm là một vị trí then chốt. Nếu bạn chiếm được vị trí đó, bản thân nó sẽ đem tới kết quả tốt cho bạn, không phải nhờ vào một phép màu nào đó, mà vì bản chất tự nhiên của thế cờ đó là như vậy.
 
 Điều này rất quan trọng trong thực chiến: trong lúc đọc cờ, chọn yếu điểm để đánh ta chỉ cần đọc cờ sâu một nước thôi! Các kỳ thủ mạnh có thể chơi rất tốt dù chẳng suy nghĩ gì nhiều, chỉ cần tập trung tạo nên các hình cờ đúng (tất nhiên không phải nói vậy là lúc chơi hoàn toàn không cần phải đọc cờ).
 
@@ -84,7 +84,7 @@ Cuốn sách này có thể đọc song song cùng cuốn Tesuji của James Dav
 
 Phần còn lại của chương Giới Thiệu này làm việc với một mẫu khai cuộc duy nhất. Cách tiếp cận này là đặc trưng của sách joseki: chọn lấy một mẫu khai cuộc góc và thảo luận một vài biến thể. Bạn có thể đọc chúng để có cảm nhận tổng quan về phạm vi khái niệm hình đẹp, và vài ví dụ về cách ngôn cơ bản, trong bối cảnh lựa chọn nước cờ. Cách này do đó có một bất lợi là không có một kết luận cụ thể hay điểm trọng tâm nào. Đó cũng phần nào giải thích vì sao cách tiếp cận này không dược áp dụng trong hầu hết phần còn lại của cuốn sách này. Bình thường chúng ta sẽ chọn một hình cờ và xem xét nó trong các bối cảnh khác nhau. Tiếp đó là một số cơ sở để lập luận so sánh, và thêm một chút giáo điều nữa.
 
-♦ Các tham khảo sẽ có trích dẫn chéo về tài liệu gốc, để nếu muốn bạn có thể tìm đọc, và một số câu cách ngôn sẽ được nhấn mạnh **_như thế này_**.
+♦ Các mục tương quan sẽ có trích dẫn chéo, để nếu muốn bạn có thể đọc tiếp nối cùng một chủ đề, và một số câu cách ngôn sẽ được nhấn mạnh **_như thế này_**.
 
 <div class="paragraph columns">
   <img alt="Hình 1" src="/books/shape-up/assets/the-scope-of-shape-1.png" />
@@ -123,9 +123,9 @@ Ngay cả những nước phát triển bình thường như thế này cũng �
   </div>
 </div>
 
-<div style="border: 1px solid #111; padding: 0 1rem;">
-<p>
-Lý do chính để ưu tiên hình nhẹ (2.6) là bởi vì hình này dễ thủ hơn. Một sai lầm đặc trưng của kỳ thủ nghiệp dư là tạo <em>hình nặng</em>: phát triển đám quân mà không quan tâm đến khả năng phòng thủ trong tương lai.
+<div class="paragraph" style="border: 1px solid #111; padding: 0 1rem;">
+<p class="preserve-margin">
+  Lý do chính để ưu tiên hình nhẹ (2.6) là bởi vì hình này dễ thủ hơn. Một sai lầm đặc trưng của kỳ thủ nghiệp dư là tạo <em>hình nặng</em>: phát triển đám quân mà không quan tâm đến khả năng phòng thủ trong tương lai.
 </p>
 <p>
 Sai lầm này được thể hiện theo nhiều cách khác nhau: e ngại thí quân, kể cả những quân không có giá trị chiến lược nào; tham lam nhảy dù vào đất địch, không chấp nhận thực tế là đối phương cũng xứng đáng có được một chút đất; nước phá đất thâm nhập quá sâu, sau đó phải chật vật tìm đường sống; nối chắc quá nhiều và đám quân không dám triển khai vì sợ hãi một cách vô lý rằng đối thủ có thể sẽ cắt quân hoặc nhảy dù vào đất mình.
@@ -215,7 +215,7 @@ Nói vậy giống như nước cờ của Đen là nước lỗi. Nó đúng th
 <img alt="Hình 17" src="/books/shape-up/assets/the-scope-of-shape-17.png" />
 </div>
 
-Hình cờ đè rồi chặn (bên trái) là kết quả tốt, trong trường hợp này, nếu Trắng muốn chiếm đất thực. Trắng cuối cùng sẽ lấy được góc, nhưng phải hết sức cẩn thận không để bị nhốt vào trong. Một cách khác để đáp lại nước lừa của Đen là hình cờ đè đầu rồi kéo dài với 5 và 7 (bên phải), sau đó giáp công tại 15. Tuy nhiên Trắng 13 là đang **_đẩy từ phía sau_**, nước thế này thường không tốt, và quân Đen bên trái sau này có dịp sẽ phản công lại.
+Hình cờ chạm trên rồi chặn (bên trái) là kết quả tốt, trong trường hợp này, nếu Trắng muốn chiếm đất thực. Trắng cuối cùng sẽ lấy được góc, nhưng phải hết sức cẩn thận không để bị nhốt vào trong. Một cách khác để đáp lại nước lừa của Đen là hình cờ chạm trên rồi kéo dài với 5 và 7 (bên phải), sau đó giáp công tại 15. Tuy nhiên Trắng 13 là đang **_đẩy từ phía sau_**, nước thế này thường không tốt, và quân Đen bên trái sau này có dịp sẽ phản công lại.
 
 ### Thảo luận về tương lai
 
