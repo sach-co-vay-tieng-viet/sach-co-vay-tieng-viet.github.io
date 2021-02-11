@@ -210,7 +210,7 @@ Sau khi Trắng vồ tại 6 ta thấy rõ ràng Đen vẫn kém khí (9 nối t
   </p>
   <ul>
     <li>thêm một quân vào một đám thường sẽ tăng cho ta một hoặc hai khí, trong đó một khí sẽ bị địch siết mất trong lượt tới của họ;</li>
-    <li>thường là lỗ mất một khí rồi thì sẽ rất khó gỡ, vậy nên hạn chế chà mặt vào quân địch mà không có lý do;</li>
+    <li>thường thì lỗ mất một khí rồi là sẽ rất khó gỡ, vậy nên hạn chế chà mặt vào quân địch mà không có lý do;</li>
     <li>mắt giả và nhưng liên kết gián tiếp như nối đôi có thể sẽ không giúp tăng thêm khí như ta nghĩ, như đã ví dụ ở trên.</li>
   </ul>
   <p>
@@ -330,7 +330,7 @@ Bên phòng thủ phải quyết định xem nên dành bao nhiêu công sức c
 
 <div class="paragraph" style="border: 1px solid #111; padding: 0 1rem;">
   <p class="preserve-margin">
-    Tấn công quá tham lam, hoặc cố bắt đám quân lớn, thường sẽ dẫn tới yêu cầu phải bảo vệ tất cả các quân đang tấn công, để cản địch tạo mắt. Việc này lại dẫn tới hình cờ thiếu khí hoặc để lại quá nhiều điểm cắt trong hình cờ của mình. Có hai thuật ngữ tiếng Nhật rất quan trọng với các kỳ thủ chuyên nghiệp, nhưng lại không phổ cập tương xứng với độ quan trọng của chúng, là <em>amarigatachi</em> và <em>amashi</em>. Amarigatachi là hình cờ mỏng dàn trải mà phe tấn công tạo nên, sau khí tấn công quá sức. Amashi là kỹ thuật phòng thủ cao cấp, cố tình bỏ mặc một đám quân yếu để dụ địch tấn công; nếu sau khi tấn công hình cờ địch ở vào tình trạng amarigatachi, vậy kế hoạch đã thành công.
+    Tấn công quá tham lam, hoặc cố bắt đám quân lớn, thường sẽ dẫn tới yêu cầu phải bảo vệ tất cả các quân đang tấn công, để cản địch tạo mắt. Việc này lại dẫn tới hình cờ thiếu khí hoặc để lại quá nhiều điểm cắt trong hình cờ của mình. Có hai thuật ngữ tiếng Nhật rất quan trọng với các kỳ thủ chuyên nghiệp, nhưng lại không phổ cập tương xứng với độ quan trọng của chúng, là <em>amarigatachi</em> và <em>amashi</em>. Amarigatachi là hình cờ mỏng dàn trải mà phe tấn công tạo nên, sau khi tấn công quá sức. Amashi là kỹ thuật phòng thủ cao cấp, cố tình bỏ mặc một đám quân yếu để dụ địch tấn công; nếu sau khi tấn công hình cờ địch ở vào tình trạng amarigatachi, vậy kế hoạch đã thành công.
   </p>
 </div>
 
@@ -338,7 +338,7 @@ Bên phòng thủ phải quyết định xem nên dành bao nhiêu công sức c
 
 ![Hình 59](/books/shape-up/assets/shape-basics-59.png)
 
-Trắng 1 kẹp. Nếu Trắng tấn công từ xa hơn ví dụ như A, Đen có thể dễ dàng tạo một mắt ở vùng này. Nhưng điều đó không có nghĩa là Trắng 1 là nước tốt. Trắng thực ra nên đi ở một trong các vị trí ✕, để tấn công một cách gián tiếp từ xa.
+Trắng 1 kẹp. Nếu Trắng tấn công từ xa hơn ví dụ như A, Đen có thể dễ dàng tạo một mắt ở vùng này. Nhưng điều đó không có nghĩa Trắng 1 là nước tốt. Trắng thực ra nên đi ở một trong các vị trí ✕, để tấn công một cách gián tiếp từ xa.
 
 ![Hình 60](/books/shape-up/assets/shape-basics-60.png)
 
