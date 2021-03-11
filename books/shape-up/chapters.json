@@ -16,12 +16,16 @@
     "title": "Phần Một: Nguyên Tắc Phát Triển",
     "subchapters": [
       {
-        "title": "Chương Một: Hình Cái Bàn",
+        "title": "Chương 1: Hình Cái Bàn",
         "path": "table-shape"
       },
       {
-        "title": "Chương Hai: Hình Cờ Cơ Sở",
+        "title": "Chương 2: Cơ Sở Hình Cờ",
         "path": "shape-basics"
+      },
+      {
+        "title": "Chương 3: Cự Ly Gần 1",
+        "path": "close-range-play-1"
       }
     ]
   }

@@ -1,7 +1,5 @@
 # Chương Một <br>Hình Cái Bàn
 
-ND: Table Shape (hình cái bàn) là thuật ngữ riêng của cờ Vây phương Tây, được phổ cập bởi chính quyển sách bạn đang đọc. Thuật ngữ này không có từ tương ứng trong tài liệu Nhật, Trung, và vì vậy trong bản dịch này ta cũng chỉ tạm gọi với nghĩa đen là hình cái bàn.
-
 ## 1.1 Ba hình mạnh
 
 Chương này giới thiệu một số hình mạnh. Hình mạnh không phải là loại hình đẹp duy nhất, chỉ là chúng ta chọn bắt đầu từ đây.
@@ -37,7 +35,7 @@ Chương này giới thiệu một số hình mạnh. Hình mạnh không phải
   <img alt="Hình 28" src="/books/shape-up/assets/the-scope-of-shape-28.png" />
 </div>
 
-(**Trái**) Đen 5 nối đôi chắc chắn, cản không cho Trắng luồn dưới nối về. (**Phải**) Nếu không có quân Trắng hỗ trợ phía bên kia, Đen có thể chọn đi thế này. Điểm cắt ở A vẫn còn, hiệu quả của Đen 5 là siết mất một khí của hai quân trắng, và Đen có cơ hội tạo một mắt khi đi B.
+(**Trái**) Đen 5 nối đôi chắc chắn, cản không cho Trắng luồn dưới nối về. (**Phải**) Nếu không có quân Trắng hỗ trợ phía bên kia, Đen có thể chọn đi thế này. Điểm cắt ở A vẫn còn nhờ có Đen 5 siết mất một khí của hai quân trắng, và Đen có cơ hội tạo một mắt khi đi B.
 
 <div class="paragraph columns">
   <img alt="Hình 29" src="/books/shape-up/assets/the-scope-of-shape-29.png" />
@@ -65,7 +63,7 @@ Tình huống đã thay đổi và Đen có thể chọn một kế sách khác 
   <div class="paragraph columns">
     <img alt="Hình 35" src="/books/shape-up/assets/the-scope-of-shape-35.png" />
     <div>
-      Đây là một hình cờ mạnh thành hình khi ta ăn một quân lẻ của địch, thường được gọi là ponnuki (ND: tiếng Việt gọi là hình hoa). Có một câu cách ngôn là <em><strong>Hoa trên không giá trị ba mươi mục</strong></em>.
+      Đây là một hình cờ mạnh thành hình khi ta ăn một quân lẻ của địch, thường được gọi là ponnuki (ND: tiếng Việt gọi là hình hoa). Có một câu cách ngôn là <em><strong>Hoa trên không trị giá ba mươi mục</strong></em>.
     </div>
   </div>
   <p>
@@ -172,3 +170,7 @@ Hình bàn cao có lúc cần sửa một chút, để cải thiện sức mạn
 Trong trường hợp này Trắng 1 di chuyển ra trung tâm nhanh hơn A. (**Phải**) Đen cắt ngay không chiếm được lợi thế nào cả. Đen ăn được vài quân, nhưng sẽ mất nhiều hơn ở phía trên.
 
 Chủ đề chung ở đây là di chuyển nhẹ nhàng, thí quân khi thích hợp, thay vì sự chắc chắn của hình bàn.
+
+---
+
+**Chú giải** Table Shape (hình cái bàn) là thuật ngữ riêng của cờ Vây phương Tây, được phổ cập bởi chính quyển sách bạn đang đọc. Thuật ngữ này không có từ tương ứng trong tài liệu Nhật, Trung, và vì vậy trong bản dịch này ta cũng chỉ tạm gọi với nghĩa đen là hình cái bàn.

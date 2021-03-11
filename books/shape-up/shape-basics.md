@@ -1,15 +1,15 @@
-# Chương Hai <br>Hình Cờ Cơ Sở
+# Chương Hai <br>Cơ Sở Hình Cờ
 
 ## 2.1 Giới thiệu: chức năng và so sánh
 
-Chương 1 đã cho ta thấy một số hình cờ hữu dụng, nhưng bạn còn cần nguyên tắc sử dụng chúng nữa. Bước đầu tiên ta phải hiểu được hình cờ không phải là chăm chăm tạo một tổ hợp quân cờ cụ thể, mà là ý tưởng rằng có những nước cờ sẽ dẫn tới kết quả tốt, và có những nước sẽ khiến ta thất vọng.
+Chương 1 đã cho ta thấy một số hình cờ hữu dụng, nhưng bạn còn cần nắm được nguyên tắc sử dụng chúng nữa. Bước đầu tiên ta phải hiểu được hình đẹp không phải là chăm chăm tạo một tổ hợp quân cờ cụ thể, mà là ý thức được rằng có những nước cờ sẽ dẫn tới kết quả tốt, và có những nước sẽ khiến ta thất vọng.
 
 <div class="paragraph columns">
   <img alt="Hình 01" src="/books/shape-up/assets/shape-basics-01.png" />
   <img alt="Hình 02" src="/books/shape-up/assets/shape-basics-02.png" />
 </div>
 
-Trắng 1 nhảy cách một ở hình bên trái sẽ không chia đôi được quân Đen: sau Đen 6 Đen sẽ có hai lựa chọn A hoặc B. Nhưng nước đi chéo 1 (**phải**) có thể hoàn hảo chia tách quân Đen.
+Trắng 1 nhảy cách một ở hình bên trái sẽ không cản quân Đen nối với nhau được: sau Đen 6 Đen sẽ có hai lựa chọn A hoặc B. Nhưng nước đi chéo 1 (**phải**) có thể hoàn hảo chia tách quân Đen.
 
 <div class="paragraph columns">
   <img alt="Hình 03" src="/books/shape-up/assets/shape-basics-03.png" />
@@ -321,7 +321,7 @@ Bên phòng thủ phải quyết định xem nên dành bao nhiêu công sức c
     </div>
   </div>
   <p>
-    Mặt khác hình nặng coi trọng lợi ích tức thời và tính kết nối hơn là lo phòng thủ và cũng không dự định thí quân sau này. Nếu Trắng nối quân tại A, B, hoặc C thì đó là hình tương đối nặng.
+    Mặt khác hình nặng coi trọng lợi ích tức thời và tính kết nối hơn là lo phòng thủ và cũng không dự định thí quân sau này. Nếu Trắng nối quân tại A, B, hoặc C thì đó sẽ là hình nặng.
   </p>
   <p class="preserve-margin">
     Hình nặng có lẽ là lỗi mà tất cả người chơi hạng kyu mắc phải.

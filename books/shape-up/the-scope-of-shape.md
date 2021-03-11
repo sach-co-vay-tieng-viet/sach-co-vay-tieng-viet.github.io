@@ -8,7 +8,7 @@ Các kỳ thủ mạnh được trang bị rất nhiều hình dạng cờ khác
 
 Lúc mới chơi, có một danh sách nhỏ các câu cách ngôn dẫn dắt ta nhận ra những vị trí then chốt trong hình cờ (xem Danh Sách Cách Ngôn ở cuối sách). Tuy nhiên chúng chỉ là những lời gợi ý, không phải là quy tắc bất di bất dịch, cho nên lúc áp dụng chúng, nên đi kèm một câu cách ngôn khác là 'Cẩn thận đừng mù quáng áp dụng các câu cách ngôn cờ Vây'.
 
-### Joseki và Tesuji có liên quan thế nào tới hình cờ?
+### Joseki và Tesuji có liên quan thế nào với hình cờ?
 
 Trong lúc học chiến thuật cơ bản của cờ Vây, rất sớm chúng ta biết được điểm cắt là vô cùng quan trọng. Một thời gian sau, thông qua việc học các thế tesuji (nghĩa đen: thủ cân) chúng ta biết một số nước đi tiêu chuẩn để đạt được ưu thế chiến thuật vượt trội, đặc biệt là các nước lợi dụng hình cờ thiếu khí. Nước tạo hình đẹp thì không đem lại ưu thế lớn bằng, cũng không hoa mỹ như các nước tesuji, nhưng vẫn đem đến cho ta lợi thế quan trọng. Cơ hội để chơi một nước tesuji chỉ xảy ra vài lần trong một ván cờ giữa 2 kỳ thủ ngang tài, nhưng hình đẹp thì cần thiết trong suốt cả ván.
 
@@ -76,13 +76,13 @@ Lời Giới Thiệu. 1.4, 1.5. 2.6. 3.2, 3.3. 4.3, 4.7, 4.8, 4.9. 5.2, 5.5, 5.6
 
 #### Tài liệu tham khảo
 
-Cuốn sách này có thể đọc song song cùng cuốn Tesuji của James Davies (Kiseido), Get Strong at Tesuji của Richard Bozulich (Kiseido, cuốn này có rất nhiều ví dụ về suji chuẩn), Tesuji and Anti-Suji of Go của Eio Sakata (Yutopian), và Proverbs dịch bởi Max Golem (Yutopian). Nếu muốn tìm sách làm quen với cờ Vây, hãy đọc Teach Yourself Go của Charles Matthews (Hodder & Stoughton/NTC), cung cấp nền tảng đủ để đọc cuốn sách này. Sách này trích dẫn nhiều ý tưởng của tác giả Bruce Wilcox; EZGO – Oriental Strategy in a Nutshell (Ki Press, ISBN 0-9652235-4-X), viết cùng Sue Wilcox, là một cuốn đại diện.
+Cuốn sách này có thể đọc song song cùng cuốn Tesuji của James Davies (Kiseido), Get Strong at Tesuji của Richard Bozulich (Kiseido, cuốn này có rất nhiều ví dụ về suji chuẩn), Tesuji and Anti-Suji of Go của Eio Sakata (Yutopian), và Proverbs dịch bởi Max Golem (Yutopian). Nếu muốn tìm sách làm quen với cờ Vây, hãy đọc Teach Yourself Go của Charles Matthews (Hodder & Stoughton/NTC), nó cung cấp nền tảng đủ để đọc cuốn sách này. Sách này trích dẫn nhiều ý tưởng của tác giả Bruce Wilcox; EZGO – Oriental Strategy in a Nutshell (Ki Press, ISBN 0-9652235-4-X), viết cùng Sue Wilcox, là một cuốn đại diện.
 
 ---
 
 ## Một ví dụ viết kiểu joseki
 
-Phần còn lại của chương Giới Thiệu này làm việc với một mẫu khai cuộc duy nhất. Cách tiếp cận này là đặc trưng của sách joseki: chọn lấy một mẫu khai cuộc góc và thảo luận một vài biến thể. Bạn có thể đọc chúng để có cảm nhận tổng quan về phạm vi khái niệm hình đẹp, và vài ví dụ về cách ngôn cơ bản, trong bối cảnh lựa chọn nước cờ. Cách này do đó có một bất lợi là không có một kết luận cụ thể hay điểm trọng tâm nào. Đó cũng phần nào giải thích vì sao cách tiếp cận này không dược áp dụng trong hầu hết phần còn lại của cuốn sách này. Bình thường chúng ta sẽ chọn một hình cờ và xem xét nó trong các bối cảnh khác nhau. Tiếp đó là một số cơ sở để lập luận so sánh, và thêm một chút giáo điều nữa.
+Phần còn lại của chương Giới Thiệu này làm việc với một mẫu khai cuộc duy nhất. Cách tiếp cận này là đặc trưng của sách joseki: chọn lấy một mẫu khai cuộc góc và thảo luận một vài biến thể. Bạn có thể tiếp tục đọc để có cảm nhận tổng quan về phạm vi khái niệm hình đẹp, và vài ví dụ về cách ngôn cơ bản hỗ trợ việc lựa chọn nước cờ tiếp theo. Vì tính chất của mình mà cách tiếp cận này có một bất lợi là không có một kết luận cụ thể hay điểm trọng tâm nào. Đó cũng phần nào giải thích vì sao cách tiếp cận này không dược áp dụng trong hầu hết phần còn lại của cuốn sách. Bình thường chúng ta sẽ chọn một hình cờ và xem xét nó trong các bối cảnh khác nhau. Sau đưa ra một số cơ sở để lập luận so sánh, và thêm một chút giáo điều nữa.
 
 ♦ Các mục tương quan sẽ có trích dẫn chéo, để nếu muốn bạn có thể đọc tiếp nối cùng một chủ đề, và một số câu cách ngôn sẽ được nhấn mạnh **_như thế này_**.
 
